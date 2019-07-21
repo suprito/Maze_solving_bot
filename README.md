@@ -22,5 +22,9 @@ Arduino Uno Maze Solving Robot Algorithm
  
  
 
+![image](https://user-images.githubusercontent.com/53126149/61595091-7ee67f00-ac10-11e9-8409-649b56b9df69.png)
+
+
+Note: The project is still ina prototype stage.
 
 **NOTE: Sorry about the video it is too big to see here but you can download it
